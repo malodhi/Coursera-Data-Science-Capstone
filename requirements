@@ -1,0 +1,5 @@
+pip install geopy==1.21.0
+pip install numpy==1.18.2 
+pip install pandas==1.0.3
+pip install folium==0.5.0
+
