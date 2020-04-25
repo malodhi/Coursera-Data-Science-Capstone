@@ -1,0 +1,152 @@
+{
+    "meta": {
+        "code": 200,
+        "requestId": "5e8093c7c94979001b1ecf5e"
+    },
+    "response": {
+        "venues": [
+            {
+                "id": "4fa862b3e4b0ebff2f749f06",
+                "name": "Harry's Italian Pizza Bar",
+                "location": {
+                    "address": "225 Murray St",
+                    "lat": 40.71521779064671,
+                    "lng": -74.01473940209351,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 40.71521779064671,
+                            "lng": -74.01473940209351
+                        }
+                    ],
+                    "distance": 58,
+                    "postalCode": "10282",
+                    "cc": "US",
+                    "city": "New York",
+                    "state": "NY",
+                    "country": "United States",
+                    "formattedAddress": [
+                        "225 Murray St",
+                        "New York, NY 10282",
+                        "United States"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1ca941735",
+                        "name": "Pizza Place",
+                        "pluralName": "Pizza Places",
+                        "shortName": "Pizza",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "delivery": {
+                    "id": "294544",
+                    "url": "https://www.seamless.com/menu/harrys-italian-pizza-bar-225-murray-st-new-york/294544?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=294544",
+                    "provider": {
+                        "name": "seamless",
+                        "icon": {
+                            "prefix": "https://fastly.4sqi.net/img/general/cap/",
+                            "sizes": [
+                                40,
+                                50
+                            ],
+                            "name": "/delivery_provider_seamless_20180129.png"
+                        }
+                    }
+                },
+                "referralId": "v-1585484764",
+                "hasPerk": false
+            },
+            {
+                "id": "4f3232e219836c91c7bfde94",
+                "name": "Conca Cucina Italian Restaurant",
+                "location": {
+                    "address": "63 W Broadway",
+                    "lat": 40.714484000000006,
+                    "lng": -74.00980600000001,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 40.714484000000006,
+                            "lng": -74.00980600000001
+                        }
+                    ],
+                    "distance": 469,
+                    "postalCode": "10007",
+                    "cc": "US",
+                    "city": "New York",
+                    "state": "NY",
+                    "country": "United States",
+                    "formattedAddress": [
+                        "63 W Broadway",
+                        "New York, NY 10007",
+                        "United States"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4d4b7105d754a06374d81259",
+                        "name": "Food",
+                        "pluralName": "Food",
+                        "shortName": "Food",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1585484764",
+                "hasPerk": false
+            },
+            {
+                "id": "3fd66200f964a520f4e41ee3",
+                "name": "Ecco",
+                "location": {
+                    "address": "124 Chambers St",
+                    "crossStreet": "btwn Church St & W Broadway",
+                    "lat": 40.71533713859952,
+                    "lng": -74.00884766217825,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 40.71533713859952,
+                            "lng": -74.00884766217825
+                        }
+                    ],
+                    "distance": 549,
+                    "postalCode": "10007",
+                    "cc": "US",
+                    "city": "New York",
+                    "state": "NY",
+                    "country": "United States",
+                    "formattedAddress": [
+                        "124 Chambers St (btwn Church St & W Broadway)",
+                        "New York, NY 10007",
+                        "United States"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d110941735",
+                        "name": "Italian Restaurant",
+                        "pluralName": "Italian Restaurants",
+                        "shortName": "Italian",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1585484764",
+                "hasPerk": false
+            }
+        ]
+    }
+}
